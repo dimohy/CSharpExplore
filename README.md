@@ -9,4 +9,4 @@ C# 12에 추가된 기능을 살펴볼 수 있도록 예제 코드를 만들었�
 - 모든 유형의 using 별칭 (Using aliases for any type)
 - 기본 생성자 (Primary Constructors)
 - 람다 선택적 파라미터 (Lambda optional parameters)
-- 실헙적 특성 (Experimental attribute)
+- 실험적 특성 (Experimental attribute)
