@@ -1,5 +1,5 @@
 ﻿/// <summary>
-/// C# 12: 모든 유형에 별칭 사용
+/// C# 12: 모든 유형의 using 별칭
 /// https://github.com/dotnet/csharplang/issues/4284
 /// https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-12.0/using-alias-types
 /// 

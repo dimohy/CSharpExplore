@@ -54,7 +54,7 @@ internal static class CollectionExpressions
     /// </summary>
     public static void Test3()
     {
-        MyType list = [1, 2, 3, 4, 5];
+        //MyType list = [1, 2, 3, 4, 5];
     }
 
     /// <summary>
